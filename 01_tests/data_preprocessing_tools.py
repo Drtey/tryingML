@@ -21,3 +21,5 @@ imputer.fit(X[:, 1:3])  #getting average row to the nan fields
 X[:, 1:3] = imputer.transform(X[:, 1:3])
 
 print(X)
+
+#Encoding categorical data (transform strings to 0 and 1)

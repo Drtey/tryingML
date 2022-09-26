@@ -1,2 +1,2 @@
 # Hands on Machine Learning
-My firsts steps
+My first steps
